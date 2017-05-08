@@ -1,11 +1,18 @@
 # Custom_MT4_indicators
 
-These are some of the forex indicators I obtained from internet that I personally customized based on my trading strategies.
-indicators with voice alerts: (requires: speak_b6.dll)
+These are some of the forex indicators I used in forex trading with MT4. Most of them are available online elsewhere, but I customized them on to display the values on the screen and to have voice alerts.
+
+Indicators with voice alerts: (requires: speak_b6.dll)
 - speaking_AC_Divergence.mq4
 - speaking_CCI Divergence.mq4
 - speaking_Reversal.mq4
+- speaking_TK Cross.mq4 	
+- speaking_MACD_Divergence.mq4 	
+- speaking_MACD_Crossover.mq4
 
+Indicators with displayed values
+- BBands_w_Val.mq4
+- Ichimoku_Values.mq4
 
 Risk Disclaimer:
 
